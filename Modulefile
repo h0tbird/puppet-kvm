@@ -1,0 +1,8 @@
+name            'h0tbird-kvm'
+version         '0.0.1'
+source          'https://github.com/h0tbird/puppet-kvm'
+author          'Marc Villacorta'
+license         'GPL'
+summary         'KVM Module'
+description     'Manages the KVM hypervisor.'
+project_page    'https://github.com/h0tbird/puppet-kvm'
